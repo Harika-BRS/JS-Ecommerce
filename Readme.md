@@ -1,6 +1,2 @@
-# JS E-Commerce App
-
-###### Purpose:
-   Demonstrate a simple E-Commerce App using javascript
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/ecommerce/).
+# E-Commerece
+# you can live [here]( https://harika-brs.github.io/JS-Ecommerce/)
